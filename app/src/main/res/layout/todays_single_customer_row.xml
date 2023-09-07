@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    android:gravity="center"
+    app:cardCornerRadius="5dp"
+    android:elevation="5dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:padding="11dp"
+        android:weightSum="10">
+
+        <TextView
+            android:id="@+id/rowTodaySrNo"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_margin="2dp"
+            android:layout_weight="0.1"
+            android:gravity="center"
+            android:padding="11dp"
+            android:textColor="@color/icon_color"
+            android:textSize="25sp"
+            android:textStyle="bold" />
+
+        <View
+            android:layout_width="2dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.1"
+            android:background="@color/icon_color" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="11dp"
+            android:layout_weight="9.7"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/rowTodayCustomerName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Shubham Lagad"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/rowTodayCustMobile"
+                android:layout_width="wrap_content"
+                android:layout_marginTop="8dp"
+                android:drawablePadding="5dp"
+                android:drawableStart="@drawable/ic_baseline_call_24"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/rowTodayCustTiming"
+                android:layout_width="wrap_content"
+                android:layout_marginTop="8dp"
+                android:drawablePadding="5dp"
+                android:drawableStart="@drawable/slot_access_time_24"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/rowTodayLastService"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New!"
+                android:textSize="15sp"
+                android:layout_marginTop="11dp"
+                android:textColor="@color/status_bar_color"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/rowTodayCustomerNotifyBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.1"
+            android:background="@color/white"
+            android:drawableTop="@drawable/ic_baseline_notifications_active_24"
+            android:text="Notify"
+            android:textAllCaps="false"
+            android:textSize="12sp"
+            android:textStyle="bold|italic" />
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

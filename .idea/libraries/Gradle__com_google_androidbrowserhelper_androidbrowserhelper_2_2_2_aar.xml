@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.androidbrowserhelper:androidbrowserhelper:2.2.2@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/23e7b9c38e68abc9e61e16e82dccd667/transformed/androidbrowserhelper-2.2.2/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/23e7b9c38e68abc9e61e16e82dccd667/transformed/androidbrowserhelper-2.2.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/23e7b9c38e68abc9e61e16e82dccd667/transformed/androidbrowserhelper-2.2.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/23e7b9c38e68abc9e61e16e82dccd667/transformed/androidbrowserhelper-2.2.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

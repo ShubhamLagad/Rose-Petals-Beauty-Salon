@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/GitHub/Hair-Stylers/app/src/main/res/drawable-v24/edit_text_format.xml" value="0.157" />
+        <entry key="..\:/GitHub/Hair-Stylers/app/src/main/res/drawable-v24/ic_baseline_email_24.xml" value="0.157" />
+        <entry key="..\:/GitHub/Hair-Stylers/app/src/main/res/drawable-v24/ic_baseline_lock_24.xml" value="0.157" />
+        <entry key="..\:/GitHub/Hair-Stylers/app/src/main/res/drawable-v24/ic_baseline_phone_android_24.xml" value="0.157" />
+        <entry key="..\:/GitHub/Hair-Stylers/app/src/main/res/drawable-v24/ic_user_solid.xml" value="0.157" />
+        <entry key="..\:/GitHub/Hair-Stylers/app/src/main/res/drawable/ic_baseline_access_time_24.xml" value="0.157" />
+        <entry key="..\:/GitHub/Hair-Stylers/app/src/main/res/drawable/ic_baseline_add_photo_alternate_24.xml" value="0.157" />
+        <entry key="..\:/GitHub/Hair-Stylers/app/src/main/res/drawable/ic_baseline_edit_location_24.xml" value="0.157" />
+        <entry key="..\:/GitHub/Hair-Stylers/app/src/main/res/drawable/ic_baseline_my_location_24.xml" value="0.157" />
+        <entry key="..\:/GitHub/Hair-Stylers/app/src/main/res/drawable/ic_baseline_subtitles_24.xml" value="0.157" />
+        <entry key="..\:/GitHub/Hair-Stylers/app/src/main/res/drawable/ic_baseline_timer_off_24.xml" value="0.157" />
+        <entry key="..\:/GitHub/Hair-Stylers/app/src/main/res/drawable/ic_baseline_title_24.xml" value="0.157" />
+        <entry key="..\:/GitHub/Hair-Stylers/app/src/main/res/drawable/ic_launcher_background.xml" value="0.157" />
+        <entry key="..\:/GitHub/Hair-Stylers/app/src/main/res/drawable/ic_lesbian_couple_4023.xml" value="0.157" />
+        <entry key="..\:/GitHub/Hair-Stylers/app/src/main/res/layout/activity_login_choise.xml" value="0.20863616930312098" />
+        <entry key="..\:/GitHub/Hair-Stylers/app/src/main/res/layout/activity_main.xml" value="0.20863616930312098" />
+        <entry key="..\:/GitHub/Hair-Stylers/app/src/main/res/layout/activity_parlour_registration_success.xml" value="0.20863616930312098" />
+        <entry key="..\:/GitHub/Hair-Stylers/app/src/main/res/layout/customer_registration.xml" value="0.20806890299184044" />
+        <entry key="..\:/GitHub/Hair-Stylers/app/src/main/res/layout/parlour_registration.xml" value="0.20863616930312098" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable-v24/edit_text_format.xml" value="0.1885" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable-v24/ic_baseline_email_24.xml" value="0.153" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable-v24/ic_baseline_lock_24.xml" value="0.153" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable-v24/ic_baseline_phone_android_24.xml" value="0.177" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.153" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable-v24/ic_user_solid.xml" value="0.153" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/fill_star.xml" value="0.186" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/hair_stylers_icon_background.xml" value="0.259" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_arrow_down_338_svgrepo_com.xml" value="0.186" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_arrow_up_337_svgrepo_com.xml" value="0.156" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_back_svgrepo_com.xml" value="0.143" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_baseline_access_time_24.xml" value="0.153" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_baseline_add2_24.xml" value="0.142" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.1715" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_baseline_add_photo_alternate_24.xml" value="0.153" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_baseline_call_24.xml" value="0.1815" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.1715" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.1445" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_baseline_edit_location_24.xml" value="0.153" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_baseline_group_work_24.xml" value="0.184" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1445" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_baseline_list_alt_24.xml" value="0.1445" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_baseline_message_24.xml" value="0.1815" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_baseline_my_location_24.xml" value="0.153" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_baseline_notifications_active_24.xml" value="0.1815" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_baseline_people_24.xml" value="0.184" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_baseline_qr_code_24.xml" value="0.184" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_baseline_qr_code_scanner_24.xml" value="0.1445" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_baseline_refresh_24.xml" value="0.153" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.187" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.153" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_baseline_star_24.xml" value="0.187" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_baseline_subtitles_24.xml" value="0.153" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_baseline_timer_off_24.xml" value="0.153" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_baseline_title_24.xml" value="0.153" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_courses_svgrepo_com.xml" value="0.1635" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_customer_service_svgrepo_com.xml" value="0.184" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_date_2_svgrepo_com.xml" value="0.1635" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_delete_2_svgrepo_com.xml" value="0.1275" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_email_8_svgrepo_com.xml" value="0.177" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_gender_symbols_svgrepo_com.xml" value="0.153" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_india_rupee_currency_symbol_svgrepo_com.xml" value="0.1445" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_inr2_svgrepo_com.xml" value="0.144" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_inr_svgrepo_com.xml" value="0.16" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_instagram_1_svgrepo_com.xml" value="0.153" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_launcher_background.xml" value="0.153" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_lesbian_couple_4023.xml" value="0.153" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_list_tree_svgrepo_com.xml" value="0.1275" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_logout_svgrepo_com.xml" value="0.184" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_menu_svgrepo_com.xml" value="0.186" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_orders_svgrepo_com.xml" value="0.184" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_products_product_svgrepo_com.xml" value="0.1635" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_scan_qrcode_svgrepo_com.xml" value="0.186" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_services_svgrepo_com.xml" value="0.186" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_shopping_cart_with_product_inside_svgrepo_com.xml" value="0.184" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_slot_svgrepo_com.xml" value="0.1635" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_star_svgrepo_com.xml" value="0.186" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_substract_svgrepo_com.xml" value="0.143" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_timeslots_solid_svgrepo_com.xml" value="0.184" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_upload_svgrepo_com.xml" value="0.1635" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_wallet_banknotes_svgrepo_com.xml" value="0.1585" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_whatsapp_svgrepo_com.xml" value="0.153" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_workflowy_svgrepo_com.xml" value="0.1635" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/ic_youtube_color_svgrepo_com.xml" value="0.1745" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/outline_button_format.xml" value="0.1885" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/slot_access_time_24.xml" value="0.153" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/slot_person_24.xml" value="0.1815" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/drawable/table_border.xml" value="0.1275" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/activity_customer_dashboard.xml" value="0.4" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/activity_login.xml" value="0.12974976830398516" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/activity_login_choise.xml" value="0.20863616930312098" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/activity_main.xml" value="0.1334569045412419" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/activity_parlour_dashboard.xml" value="0.2" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/activity_parlour_registration_success.xml" value="0.20863616930312098" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/activity_registration.xml" value="0.20599409033347404" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/activity_registration_choise.xml" value="0.20863616930312098" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/activity_salon_dashboard.xml" value="0.20863616930312098" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/activity_salon_registration_success.xml" value="0.1334569045412419" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/activity_splash.xml" value="0.20863616930312098" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/add_customer_dialog.xml" value="0.2" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/add_product_dialog.xml" value="0.2" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/add_review_dialog.xml" value="0.4" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/add_service_dialog.xml" value="0.2" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/already_exists_dialog.xml" value="0.20863616930312098" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/app_bar_layout.xml" value="0.2" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/bill_layout.xml" value="0.264" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/bill_table_row.xml" value="0.4" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/book_slot_checkbox.xml" value="0.264" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/customer_app_bar_layout.xml" value="0.264" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/customer_bill_row.xml" value="0.6175824175824176" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/customer_context_menu.xml" value="0.13623725671918444" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/customer_login.xml" value="0.1334569045412419" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/customer_menu_dialog.xml" value="0.264" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/customer_products_row.xml" value="0.6" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/customer_registration.xml" value="0.1334569045412419" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/customer_service_details.xml" value="0.19647822057460612" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/customer_service_row.xml" value="0.264" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/fragment_customer_bills.xml" value="0.19647822057460612" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/fragment_customer_home.xml" value="0.2" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/fragment_customer_products.xml" value="0.264" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/fragment_customer_q_r_scanner.xml" value="0.13623725671918444" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/fragment_customer_services.xml" value="0.19647822057460612" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/fragment_customer_slot.xml" value="0.12874630645842128" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/fragment_notifications.xml" value="0.2" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/fragment_parlour_customers.xml" value="0.536" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/fragment_parlour_products.xml" value="0.12882298424467098" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/fragment_parlour_q_r_code.xml" value="0.2" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/fragment_parlour_report.xml" value="0.2" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/fragment_parlour_services.xml" value="0.13623725671918444" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/fragment_parlour_slots.xml" value="0.2" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/fragment_salon_bill.xml" value="0.20863616930312098" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/fragment_salon_customers.xml" value="0.1334569045412419" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/fragment_salon_products.xml" value="0.1334569045412419" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/fragment_salon_profile.xml" value="0.2" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/fragment_salon_q_r_code.xml" value="0.264" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/fragment_salon_report.xml" value="0.19647822057460612" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/fragment_salon_services.xml" value="0.264" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/fragment_salon_slots.xml" value="0.1334569045412419" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/header_layout.xml" value="0.20863616930312098" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/image_viewer_dialog.xml" value="0.19647822057460612" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/item_image.xml" value="0.20599409033347404" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/item_product.xml" value="0.3007075471698113" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/item_service.xml" value="0.264" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/login_failed_dialog.xml" value="0.2" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/manage_slot_dialog.xml" value="0.16799999999999998" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/new_customer_added_succes_dialog.xml" value="0.1334569045412419" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/parlour_app_bar_layout.xml" value="0.12882298424467098" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/parlour_context_menu.xml" value="0.12072604474461798" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/parlour_customer_row.xml" value="0.38954869358669836" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/parlour_login.xml" value="0.264" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/parlour_product_row.xml" value="0.264" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/parlour_registration.xml" value="0.20863616930312098" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/parlour_service_checkbox_row.xml" value="0.264" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/parlour_service_row.xml" value="0.2" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/parlour_slot_row.xml" value="0.264" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/qr_viewer.xml" value="0.125" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/registration_success_dialog.xml" value="0.1334569045412419" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/salon_app_bar_layout.xml" value="0.2" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/salon_context_menu.xml" value="0.13852073535699017" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/salon_customer_row.xml" value="0.264" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/salon_information.xml" value="0.1742354031510658" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/salon_infromation.xml" value="0.2" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/salon_login.xml" value="0.1334569045412419" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/salon_product_row.xml" value="0.264" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/salon_service_checkbox_row.xml" value="0.1334569045412419" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/salon_service_details.xml" value="0.264" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/salon_service_row.xml" value="0.264" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/salon_slot_row.xml" value="0.1334569045412419" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/service_detail_dialog.xml" value="0.264" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/single_parlour_details_layout.xml" value="0.264" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/single_parlour_details_row.xml" value="0.264" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/slot_booking_dialog.xml" value="0.2" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/sms_sending.xml" value="0.4" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/submitting_dialog.xml" value="0.264" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/thank_you_dialog.xml" value="0.20599409033347404" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/todays_single_customer_row.xml" value="0.2" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/worker_login.xml" value="0.1334569045412419" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/layout/worker_registration.xml" value="0.1334569045412419" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/menu/customer_dashboard_menu_items.xml" value="0.20599409033347404" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/menu/parlour_dashboard_menu_items.xml" value="0.20863616930312098" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/menu/salon_dashboard_menu_items.xml" value="0.13852073535699017" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/menu/slot_menu_items.xml" value="0.264" />
+        <entry key="..\:/MCA wale/Hair-Stylers/app/src/main/res/mipmap-anydpi-v26/hair_stylers_icon.xml" value="0.184" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/drawable-v24/edit_text_format.xml" value="0.169" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/drawable/booked_slot_format.xml" value="0.153" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/drawable/ic_baseline_call_24.xml" value="0.153" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/drawable/ic_baseline_edit_location_24.xml" value="0.1635" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/drawable/ic_baseline_timer_off_24.xml" value="0.1635" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/drawable/ic_email_8_svgrepo_com.xml" value="0.1635" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/drawable/ic_feedback_svgrepo_com.xml" value="0.1635" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/drawable/ic_google_pay_svgrepo_com.xml" value="0.169" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/drawable/ic_phonepe_logo_icon.xml" value="0.169" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/drawable/ic_shopping_cart_with_product_inside_svgrepo_com.xml" value="0.1635" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/drawable/image_border.xml" value="0.1635" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/drawable/slot_access_time_24.xml" value="0.1635" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/drawable/unbook_slot_format.xml" value="0.169" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/layout/activity_login.xml" value="0.20599409033347404" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/layout/activity_main.xml" value="0.19647822057460612" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/layout/activity_salon_dashboard.xml" value="0.20599409033347404" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/layout/add_product_dialog.xml" value="0.20599409033347404" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/layout/bill_viewer.xml" value="0.20599409033347404" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/layout/customer_bill_row.xml" value="0.264" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/layout/customer_info_dialog.xml" value="0.264" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/layout/customer_menu_dialog.xml" value="0.15998311523849726" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/layout/customer_service_row.xml" value="0.115861479264643" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/layout/day_slot_row.xml" value="0.264" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/layout/feedback_dialog.xml" value="0.2" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/layout/feedback_row.xml" value="0.264" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/layout/fragment_customer_bills.xml" value="0.1483539974348012" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/layout/fragment_customer_home.xml" value="0.264" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/layout/fragment_customer_slot.xml" value="0.20599409033347404" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/layout/fragment_feedbacks.xml" value="0.19647822057460612" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/layout/fragment_make_bill.xml" value="0.20599409033347404" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/layout/fragment_notifications.xml" value="0.20599409033347404" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/layout/fragment_salon_bill.xml" value="0.20599409033347404" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/layout/fragment_salon_bills.xml" value="0.19647822057460612" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/layout/fragment_salon_products.xml" value="0.13210773834972211" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/layout/fragment_salon_profile.xml" value="0.1393758016246259" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/layout/fragment_salon_report.xml" value="0.264" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/layout/fragment_salon_services.xml" value="0.13210773834972211" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/layout/fragment_salon_slots.xml" value="0.20599409033347404" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/layout/fragment_todays_customers.xml" value="0.1417979610750695" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/layout/header_layout.xml" value="0.2" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/layout/item_product.xml" value="0.20599409033347404" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/layout/item_service.xml" value="0.19647822057460612" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/layout/manage_slot_dialog.xml" value="0.264" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/layout/payment_dialog.xml" value="0.2" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/layout/qr_viewer.xml" value="0.20599409033347404" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/layout/salon_customer_row.xml" value="0.19647822057460612" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/layout/salon_infromation.xml" value="0.20599409033347404" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/layout/salon_product_row.xml" value="0.20599409033347404" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/layout/salon_service_details.xml" value="0.16311399443929564" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/layout/salon_service_row.xml" value="0.20599409033347404" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/layout/salon_slot_row.xml" value="0.20863616930312098" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/layout/service_detail_dialog.xml" value="0.1393758016246259" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/layout/slot_booking_dialog.xml" value="0.20863616930312098" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/layout/slot_customer_dialog.xml" value="0.19647822057460612" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/layout/sms_sending.xml" value="0.20599409033347404" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/layout/todays_single_customer_row.xml" value="0.4" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/layout/week_slot_row.xml" value="0.20599409033347404" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/layout/your_slot_dialog.xml" value="0.264" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/layout/your_slot_row.xml" value="0.136" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/menu/salon_dashboard_menu_items.xml" value="0.20599409033347404" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1635" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/mipmap-anydpi-v26/rpbs.xml" value="0.1635" />
+        <entry key="..\:/MCA wale/Rose Petals Beauty Salon/app/src/main/res/mipmap-anydpi-v26/rpbs_round.xml" value="0.1635" />
+        <entry key="..\:/SIOM/Android Project/Hair Stylers/app/src/main/res/drawable-v24/edit_text_format.xml" value="0.1795" />
+        <entry key="..\:/SIOM/Android Project/Hair Stylers/app/src/main/res/drawable-v24/ic_baseline_email_24.xml" value="0.1795" />
+        <entry key="..\:/SIOM/Android Project/Hair Stylers/app/src/main/res/drawable-v24/ic_baseline_lock_24.xml" value="0.1795" />
+        <entry key="..\:/SIOM/Android Project/Hair Stylers/app/src/main/res/drawable-v24/ic_baseline_phone_android_24.xml" value="0.1795" />
+        <entry key="..\:/SIOM/Android Project/Hair Stylers/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1795" />
+        <entry key="..\:/SIOM/Android Project/Hair Stylers/app/src/main/res/drawable/ic_baseline_access_time_24.xml" value="0.1795" />
+        <entry key="..\:/SIOM/Android Project/Hair Stylers/app/src/main/res/drawable/ic_baseline_add_photo_alternate_24.xml" value="0.1795" />
+        <entry key="..\:/SIOM/Android Project/Hair Stylers/app/src/main/res/drawable/ic_baseline_edit_location_24.xml" value="0.1795" />
+        <entry key="..\:/SIOM/Android Project/Hair Stylers/app/src/main/res/drawable/ic_baseline_my_location_24.xml" value="0.1795" />
+        <entry key="..\:/SIOM/Android Project/Hair Stylers/app/src/main/res/drawable/ic_baseline_subtitles_24.xml" value="0.1795" />
+        <entry key="..\:/SIOM/Android Project/Hair Stylers/app/src/main/res/drawable/ic_baseline_timer_off_24.xml" value="0.1795" />
+        <entry key="..\:/SIOM/Android Project/Hair Stylers/app/src/main/res/drawable/ic_baseline_title_24.xml" value="0.1795" />
+        <entry key="..\:/SIOM/Android Project/Hair Stylers/app/src/main/res/drawable/ic_lesbian_couple_4023.xml" value="0.1795" />
+        <entry key="..\:/SIOM/Android Project/Hair Stylers/app/src/main/res/layout/activity_customer_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/SIOM/Android Project/Hair Stylers/app/src/main/res/layout/activity_login_choise.xml" value="0.20863616930312098" />
+        <entry key="..\:/SIOM/Android Project/Hair Stylers/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/SIOM/Android Project/Hair Stylers/app/src/main/res/layout/activity_registration_choise.xml" value="0.25416666666666665" />
+        <entry key="..\:/SIOM/Android Project/Hair Stylers/app/src/main/res/layout/activity_splash.xml" value="0.25416666666666665" />
+        <entry key="..\:/SIOM/Android Project/Hair Stylers/app/src/main/res/layout/customer_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/SIOM/Android Project/Hair Stylers/app/src/main/res/layout/customer_registration.xml" value="0.25416666666666665" />
+        <entry key="..\:/SIOM/Android Project/Hair Stylers/app/src/main/res/layout/fragment_customer_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/SIOM/Android Project/Hair Stylers/app/src/main/res/layout/fragment_customer_registration.xml" value="0.25416666666666665" />
+        <entry key="..\:/SIOM/Android Project/Hair Stylers/app/src/main/res/layout/fragment_parlour_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/SIOM/Android Project/Hair Stylers/app/src/main/res/layout/fragment_parlour_registration.xml" value="0.25416666666666665" />
+        <entry key="..\:/SIOM/Android Project/Hair Stylers/app/src/main/res/layout/fragment_worker_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/SIOM/Android Project/Hair Stylers/app/src/main/res/layout/fragment_worker_registration.xml" value="0.25416666666666665" />
+        <entry key="..\:/SIOM/Android Project/Hair Stylers/app/src/main/res/layout/parlour_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/SIOM/Android Project/Hair Stylers/app/src/main/res/layout/parlour_registration.xml" value="0.176" />
+        <entry key="..\:/SIOM/Android Project/Hair Stylers/app/src/main/res/layout/worker_login.xml" value="0.24537037037037038" />
+        <entry key="..\:/SIOM/Android Project/Hair Stylers/app/src/main/res/layout/worker_registration.xml" value="0.25416666666666665" />
+        <entry key="..\:/SIOM/Android Project/Hair-Stylers/app/src/main/res/drawable-v24/edit_text_format.xml" value="0.1765" />
+        <entry key="..\:/SIOM/Android Project/Hair-Stylers/app/src/main/res/drawable/ic_baseline_title_24.xml" value="0.1765" />
+        <entry key="..\:/SIOM/Android Project/Hair-Stylers/app/src/main/res/drawable/ic_gender_symbols_svgrepo_com.xml" value="0.1765" />
+        <entry key="..\:/SIOM/Android Project/Hair-Stylers/app/src/main/res/layout/customer_registration.xml" value="0.20863616930312098" />
+        <entry key="..\:/SIOM/Android Project/Hair-Stylers/app/src/main/res/layout/parlour_registration.xml" value="0.20863616930312098" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

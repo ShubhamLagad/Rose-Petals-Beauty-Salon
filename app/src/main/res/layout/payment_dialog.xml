@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:layout_margin="11dp"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Payment"
+        android:textColor="@color/text_1"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:gravity="center"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@color/icon_color"
+        android:layout_margin="11dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="2000"
+        android:textColor="@color/text_1"
+        android:textSize="20sp"
+        android:id="@+id/amount"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="11dp"
+        android:text="Pay Using:"
+        android:layout_gravity="left"
+        android:textColor="@color/text_1"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:id="@+id/googlePayBtn"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_margin="11dp"
+            android:backgroundTint="@color/white"
+            android:src="@drawable/ic_google_pay_svgrepo_com" />
+
+        <ImageButton
+            android:id="@+id/phonePeBtn"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_margin="11dp"
+            android:backgroundTint="@color/white"
+            android:src="@drawable/ic_phonepe_logo_icon" />
+    </LinearLayout>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/cancelBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cancel"
+        android:layout_marginTop="11dp"
+        android:textSize="12sp" />
+
+</LinearLayout>

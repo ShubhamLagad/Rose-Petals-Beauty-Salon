@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/salonDashboardItem"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Dashboard" />
+    <item
+        android:id="@+id/salonBill"
+        android:icon="@drawable/ic_wallet_banknotes_svgrepo_com"
+        android:title="Generate Bill" />
+
+
+
+    <item
+        android:id="@+id/salonSlotsItem"
+        android:icon="@drawable/ic_timeslots_solid_svgrepo_com"
+        android:title="Slots" />
+
+    <item
+        android:id="@+id/salonTodayCustmer"
+        android:icon="@drawable/ic_baseline_people_24"
+        android:title="Today's Customers" />
+
+    <item
+        android:id="@+id/salonCustomerItem"
+        android:icon="@drawable/ic_baseline_people_24"
+        android:title="Customers" />
+
+
+    <item
+        android:id="@+id/salonTotalBills"
+        android:icon="@drawable/ic_wallet_banknotes_svgrepo_com"
+        android:title="Bills" />
+
+    <item
+        android:id="@+id/salonServiceItem"
+        android:icon="@drawable/ic_customer_service_svgrepo_com"
+        android:title="Services" />
+
+    <item
+        android:id="@+id/salonProduct"
+        android:icon="@drawable/ic_shopping_cart_with_product_inside_svgrepo_com"
+        android:title="Products" />
+
+    <item
+        android:id="@+id/salonFeedback"
+        android:icon="@drawable/ic_feedback_svgrepo_com"
+        android:title="Feedbacks" />
+
+    <item
+        android:id="@+id/salonProfile"
+        android:icon="@drawable/slot_person_24"
+        android:title="Profile" />
+    <item
+        android:id="@+id/salonLogout"
+        android:icon="@drawable/ic_logout_svgrepo_com"
+        android:title="Logout" />
+</menu>

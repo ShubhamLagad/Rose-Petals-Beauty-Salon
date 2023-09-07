@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/icon_color"
+            android:orientation="horizontal"
+            android:padding="11dp">
+
+            <TextView
+                android:id="@+id/slotDay"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="MONDAY"
+                android:textColor="@color/white"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/slotDate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="31dp"
+                android:text="MONDAY"
+                android:textColor="@color/white"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="41dp"
+                android:id="@+id/slotClose"
+                android:background="@color/icon_color"
+                android:src="@drawable/ic_baseline_close_24" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/slotName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:layout_margin="11dp"
+            android:drawableStart="@drawable/slot_person_24"
+            android:drawablePadding="5dp"
+            android:drawableTint="@color/text_1"
+            android:text="SHubham Lagad"
+            android:textColor="@color/text_1"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/slotPhone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:layout_margin="11dp"
+            android:drawableStart="@drawable/ic_baseline_call_24"
+            android:drawablePadding="5dp"
+            android:drawableTint="@color/text_1"
+            android:text="800787824"
+            android:textColor="@color/text_1"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:layout_marginTop="11dp"
+            android:layout_marginHorizontal="11dp"
+            android:drawableStart="@drawable/ic_customer_service_svgrepo_com"
+            android:drawablePadding="5dp"
+            android:drawableTint="@color/text_1"
+            android:text="Services:"
+            android:textColor="@color/text_1"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+        <ListView
+            android:id="@+id/servicesList"
+            android:layout_width="match_parent"
+            android:layout_marginLeft="71dp"
+            android:layout_height="wrap_content" />
+
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
